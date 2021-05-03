@@ -32,34 +32,46 @@ Chia(奇亚)参数
 播种的过程需要占用CPU、内存（每个P盘线程默认需要4G内存空间）和硬盘临时空间（生成K = 32规格的播种文件大概需要占用239临时空间【老版本332G】）。因此播种（Plots）的过程建议采用性能较好的CPU、16G以上内存和固态硬盘（建议合计2T以上的M2.NVME协议SSD）。
 
 # Chia(奇亚)P盘机硬件参考
-[Chia(奇亚)P盘机硬件参考](https://gitee.com/imminer/Chia-mining/blob/master/static/Chia(%E5%A5%87%E4%BA%9A)P%E7%9B%98%E6%9C%BA%E7%A1%AC%E4%BB%B6%E5%8F%82%E8%80%83.xlsx)
+[Chia(奇亚)P盘机硬件参考](https://github.com/imminer668/Chia/blob/main/static/Chia(%E5%A5%87%E4%BA%9A)P%E7%9B%98%E6%9C%BA%E7%A1%AC%E4%BB%B6%E5%8F%82%E8%80%83.xlsx)
 
 # Chia(奇亚)挖矿教程Windows版
-[Chia(奇亚)挖矿教程Windows版](https://mp.weixin.qq.com/s?src=11&timestamp=1619869232&ver=3042&signature=OChGmrvFsmo1ctAe1Tz-7AFULniAWwZlIPM0ps7imbrXyDCC7cAixqTrq2HLTAM18NHqBRGPa3B5WxZuJSRChABMUrSOOv5YZOssMgRazqfoZ66Jct8AwaoD8hnym1GU&new=1)
+[Chia(奇亚)挖矿教程Windows版](https://mp.weixin.qq.com/s/jD0AqF4pGU4teSBOt3g-TA)
 
 # Chia(奇亚)挖矿最新骗人套路解说
-[Chia(奇亚)挖矿最新骗人套路解说](https://mp.weixin.qq.com/s?src=11&timestamp=1619869232&ver=3042&signature=OChGmrvFsmo1ctAe1Tz-7AFULniAWwZlIPM0ps7imbqLRC-Rz1DvCc1xXN-d5EN69xCRFGcXLuOFBBDbett-OiflIMPes9lhp7JhITQMV*f89XIWR3RxdWoF56XdrVw3&new=1)
+[Chia(奇亚)挖矿最新骗人套路解说](https://mp.weixin.qq.com/s/KedXXoFCkfFXjwIj7itHsQ)
 
 # Chia(奇亚)挖矿"小技巧"简单有效提升P图速度
-[Chia(奇亚)挖矿"小技巧"简单有效提升P图速度](https://mp.weixin.qq.com/s?src=11&timestamp=1619869232&ver=3042&signature=OChGmrvFsmo1ctAe1Tz-7AFULniAWwZlIPM0ps7imboSyxwi39Fte4vcqo*5nnNGeDpQGuUmt3emx9FQt94vPIEC9npKThceQY6zusebG*wDsC1yxMcwZEDVLJxW0iqz&new=1)
+[Chia(奇亚)挖矿"小技巧"简单有效提升P图速度](https://mp.weixin.qq.com/s/mffSvPuNGqEyUNzp-3Fozw)
 
 # Chia（奇亚）挖矿-常见问题集、一
-[Chia（奇亚）挖矿-常见问题集、一](https://mp.weixin.qq.com/s?src=11&timestamp=1619869213&ver=3042&signature=OChGmrvFsmo1ctAe1Tz-7AFULniAWwZlIPM0ps7imbpRSbAxFMVnzpotwjlYmdBnwFkNF09bx2IyRid1sWGiYIkzRvXjCds7d-njpuFrMy1I7*PXANL2ewtF2SJoGe9I&new=1)
+[Chia（奇亚）挖矿-常见问题集、一](https://mp.weixin.qq.com/s/x0DG8T0GOCwjvhDTBkUbnA)
 
 # Chia（奇亚）挖矿-常见问题集、二
-[# Chia（奇亚）挖矿-常见问题集、二](https://mp.weixin.qq.com/s?src=11&timestamp=1619869213&ver=3042&signature=OChGmrvFsmo1ctAe1Tz-7AFULniAWwZlIPM0ps7imbr1Z4L2U7gP4CisbGSWwE9boMHreLxbEROEF4P5mdMfthm7bR4fi9*aKyvRVVGSebIiPYanxlYwOoiCI5BicM*x&new=1)
+[# Chia（奇亚）挖矿-常见问题集、二](https://mp.weixin.qq.com/s/KHuzAMVCeuKK9qYtrcMRZg)
 
-# Chia(奇亚)挖矿如何排除P盘过程中崩溃的解决方法，如何恢复教
-[Chia(奇亚)挖矿如何排除P盘过程中崩溃的解决方法，如何恢复教](https://mp.weixin.qq.com/s?src=11&timestamp=1619869675&ver=3042&signature=OChGmrvFsmo1ctAe1Tz-7AFULniAWwZlIPM0ps7imbo2Hy4CJ1KUWil8MSMmEwVu1RPIxqsQrOiafFlzkzJaEiLyiF6OlRJUm1gZQiiUQMkHq665QVJ6aDrTeSfF0P-D&new=1)
+# Chia(奇亚)挖矿如何排除P盘过程中崩溃的解决方法，如何恢复
+[Chia(奇亚)挖矿如何排除P盘过程中崩溃的解决方法，如何恢复](https://mp.weixin.qq.com/s/v93iUw6Ubk01zVdhi6SWeA)
 
 # Chia(奇亚)挖矿:定期检查您的debug.log
-[Chia(奇亚)挖矿:定期检查您的debug.log](https://mp.weixin.qq.com/s?src=11&timestamp=1619869232&ver=3042&signature=OChGmrvFsmo1ctAe1Tz-7AFULniAWwZlIPM0ps7imbpitLcrEexzFSgz*gyPHGbDDmSnartgnL6zHL-aksPo4JLP-HGb14eKGKOoKXURKspbbPZWR4XLyixyLRKfZ1z5&new=1)
+[Chia(奇亚)挖矿:定期检查您的debug.log](https://mp.weixin.qq.com/s/804BLj6sLal8PR7VUW1YJw)
 
 # Chia(奇亚)多机集群挖矿教程
-[Chia(奇亚)多机集群挖矿教程](https://mp.weixin.qq.com/s?src=11&timestamp=1619869232&ver=3042&signature=OChGmrvFsmo1ctAe1Tz-7AFULniAWwZlIPM0ps7imbpV63-iPkC6pVnoqiXDLFO1fZpAYIDBLs0E-LHXpaDfelq8YwIxCRr1tuiMPWeOnxawH0-p59iXeBcC9fzd6OBA&new=1)
+[Chia(奇亚)多机集群挖矿教程](https://mp.weixin.qq.com/s/DaZ2AC8O6ahda-ymrfAlgA)
 
 # Chia(奇亚)如何备份所有的文件，以及保存钱包区块文件
-[Chia(奇亚)如何备份所有的文件，以及保存钱包区块文件](https://mp.weixin.qq.com/s?src=11&timestamp=1619869188&ver=3042&signature=OChGmrvFsmo1ctAe1Tz-7AFULniAWwZlIPM0ps7imbpS1Gz8eCF7WVX8YUdlhicFMzCpL1tHREfDhx1gayLyCXfIzkox-oOvoaStq0FtqB68ONNTPBGHzw2lEbqRaFAL&new=1)
+[Chia(奇亚)如何备份所有的文件，以及保存钱包区块文件](https://mp.weixin.qq.com/s/wsCs9bkM_3836YGlJF1GSQ)
+
+# Chia(奇亚)挖矿多硬盘位机箱推荐
+[Chia(奇亚)挖矿多硬盘位机箱推荐](https://mp.weixin.qq.com/s/XicNKPovpyWgRXwhjq7gZw)
+
+# Chia(奇亚)挖矿 不能从GUI连接到钱包？钱包不能同步 解决办法
+[Chia(奇亚)挖矿 不能从GUI连接到钱包？钱包不能同步 解决办法](https://mp.weixin.qq.com/s/sWZLGPBa6-pT4TGIKzgKhg)
+
+# Chia(奇亚)官方推荐使用Windows PowerShell P图，使用技巧
+[Chia(奇亚)官方推荐使用Windows PowerShell P图，使用技巧](https://mp.weixin.qq.com/s/VibHoGR6BewXG6H3rFPFBg)
+
+# Chia(奇亚)需要等待多少个区块高度才完成交易？
+[Chia(奇亚)需要等待多少个区块高度才完成交易？](https://mp.weixin.qq.com/s/88bBYggNC-EqtRjrAPND8A)
 
 # 常见问题
 问题1：生成PLOT文件的选项中，队列与并发有什么区别？
